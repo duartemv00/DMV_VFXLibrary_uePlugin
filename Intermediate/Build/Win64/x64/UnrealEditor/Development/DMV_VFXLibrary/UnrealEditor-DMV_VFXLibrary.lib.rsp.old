@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-DMV_VFXLibrary.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
 "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Default.rc2.res"
 /OUT:"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\UnrealEditor-DMV_VFXLibrary.lib"

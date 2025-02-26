@@ -1,5 +1,5 @@
 /I "."
-/I "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Private"
+/I "C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Private"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
 /I "Runtime\CoreUObject\Public"
@@ -282,8 +282,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Source"
-/I "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Public"
+/I "C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Source"
+/I "C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Public"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"

@@ -35,7 +35,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
 "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"

@@ -1,11 +1,11 @@
-"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Private\DMV_VFXLibrary.cpp"
-/FI"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Definitions.DMV_VFXLibrary.h"
-/Yu"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
-/sourceDependencies "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.dep.json"
-@"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.Shared.rsp"
+"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Source\DMV_VFXLibrary\Private\DMV_VFXLibrary.cpp"
+/FI"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Intermediate\Build\Win64\x64\VFX_LibraryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Definitions.DMV_VFXLibrary.h"
+/Yu"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Intermediate\Build\Win64\x64\VFX_LibraryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Intermediate\Build\Win64\x64\VFX_LibraryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
+/sourceDependencies "C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.dep.json"
+@"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

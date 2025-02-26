@@ -35,9 +35,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
-"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Default.rc2.res"
+"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Intermediate\Build\Win64\x64\VFX_LibraryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\DMV_VFXLibrary.cpp.obj"
+"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -68,7 +68,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Binaries\Win64\UnrealEditor-DMV_VFXLibrary.dll"
-/IMPLIB:"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\UnrealEditor-DMV_VFXLibrary.sup.lib"
-/PDB:"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMV_VFXLibrary\Binaries\Win64\UnrealEditor-DMV_VFXLibrary.pdb"
+/OUT:"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Binaries\Win64\UnrealEditor-DMV_VFXLibrary.dll"
+/IMPLIB:"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMV_VFXLibrary\UnrealEditor-DMV_VFXLibrary.sup.lib"
+/PDB:"C:\Users\Duarte\Desktop\DMV_VFXLibrary\Plugins\DMV_VFXLibrary\Binaries\Win64\UnrealEditor-DMV_VFXLibrary.pdb"
 /ignore:4078
